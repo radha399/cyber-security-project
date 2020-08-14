@@ -1,0 +1,3 @@
+inurl:wp-content/plugins/form-maker
+intext:piwik "Sign in"
+inurl:wp-content/themes/traveler

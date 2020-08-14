@@ -1,0 +1,4 @@
+Google Dork : Index of: /services/aadhar card/
+intitle:"index of" "app.log"
+intitle:"index of" "/home/ROOT_PATH/"
+"Index of" "/monitoring"

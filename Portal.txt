@@ -1,0 +1,5 @@
+inurl:/8080/admin.html
+site:gov.*.*/ intext:"login" intitle:"login"
+inurl:8080/login.php
+allinurl:tsweb/default.htm
+site:vpn.*.*/ intext:"login" intitle:"login"
